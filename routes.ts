@@ -8,7 +8,7 @@ router.get('/', async (ctx) => {
     });
 });
 
-// Keep this in sync with the 
+// Keep this in sync with the cars directory in the public folder
 const cars = [
     'mustang',
     'mercedes'
